@@ -1,5 +1,7 @@
+import HelloWorld from '@/components/HelloWord'
+
 function Home() {
-  return <div>Welcome to Rika React Template</div>
+  return <div><HelloWorld /></div>
 }
 
 export default Home
