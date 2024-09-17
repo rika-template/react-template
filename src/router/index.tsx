@@ -1,6 +1,6 @@
+import Layout from '@/layout'
+import Home from '@/pages'
 import { createHashRouter } from 'react-router-dom'
-import Layout from '../layout'
-import Home from '../pages'
 
 const router = createHashRouter([
   {
